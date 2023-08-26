@@ -1,6 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
+import React from 'react';//libreria para hacer interfaces graficas
+import ReactDOM from 'react-dom/client';//paquete que nos ayuda a trabajar con el react y el DOM de nuestro navegador
+import './index.css';//importando estilos
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
